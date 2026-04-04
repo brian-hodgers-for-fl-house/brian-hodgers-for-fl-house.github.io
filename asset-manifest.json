@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e261f55.css",
-    "main.js": "/static/js/main.c92b2e77.js",
+    "main.css": "/static/css/main.e601fb29.css",
+    "main.js": "/static/js/main.a9d18c3c.js",
     "static/js/453.45e07a72.chunk.js": "/static/js/453.45e07a72.chunk.js",
     "static/media/gunstore.jpg": "/static/media/gunstore.2b857769b7153b3602e0.jpg",
     "static/media/school.jpg": "/static/media/school.4d0c8b6362dd97a3c3ac.jpg",
@@ -17,6 +17,7 @@
     "static/media/NRA.png": "/static/media/NRA.448e3af005181da54fc3.png",
     "static/media/BacksTheBlue.png": "/static/media/BacksTheBlue.4cbb4a90d5cafb397506.png",
     "static/media/CarousalSchools.jpg": "/static/media/CarousalSchools.7b6fa6f1d4efe453d43e.jpg",
+    "static/media/HD_32.jpg": "/static/media/HD_32.34c54305ed2626b2bd3b.jpg",
     "static/media/Slide1.jpg": "/static/media/Slide1.2c3d9899d84426fbf973.jpg",
     "static/media/IllegalImmigration.png": "/static/media/IllegalImmigration.2432d26c60ac2ef9873d.png",
     "static/media/Slide2.jpg": "/static/media/Slide2.01fcb64e035e09d9265b.jpg",
@@ -33,12 +34,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.9e261f55.css.map": "/static/css/main.9e261f55.css.map",
-    "main.c92b2e77.js.map": "/static/js/main.c92b2e77.js.map",
+    "main.e601fb29.css.map": "/static/css/main.e601fb29.css.map",
+    "main.a9d18c3c.js.map": "/static/js/main.a9d18c3c.js.map",
     "453.45e07a72.chunk.js.map": "/static/js/453.45e07a72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e261f55.css",
-    "static/js/main.c92b2e77.js"
+    "static/css/main.e601fb29.css",
+    "static/js/main.a9d18c3c.js"
   ]
 }
