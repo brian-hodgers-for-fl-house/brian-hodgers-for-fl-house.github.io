@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd9fad32.css",
+    "main.css": "/static/css/main.2257f27b.css",
     "main.js": "/static/js/main.09c900ed.js",
     "static/js/453.45e07a72.chunk.js": "/static/js/453.45e07a72.chunk.js",
     "static/media/gunstore.jpg": "/static/media/gunstore.2b857769b7153b3602e0.jpg",
@@ -37,12 +37,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.cd9fad32.css.map": "/static/css/main.cd9fad32.css.map",
+    "main.2257f27b.css.map": "/static/css/main.2257f27b.css.map",
     "main.09c900ed.js.map": "/static/js/main.09c900ed.js.map",
     "453.45e07a72.chunk.js.map": "/static/js/453.45e07a72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd9fad32.css",
+    "static/css/main.2257f27b.css",
     "static/js/main.09c900ed.js"
   ]
 }
