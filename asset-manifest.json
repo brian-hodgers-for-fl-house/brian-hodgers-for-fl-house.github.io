@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2257f27b.css",
-    "main.js": "/static/js/main.09c900ed.js",
+    "main.css": "/static/css/main.ddb3c1a8.css",
+    "main.js": "/static/js/main.a7bf21a9.js",
     "static/js/453.45e07a72.chunk.js": "/static/js/453.45e07a72.chunk.js",
     "static/media/gunstore.jpg": "/static/media/gunstore.2b857769b7153b3602e0.jpg",
     "static/media/school.jpg": "/static/media/school.4d0c8b6362dd97a3c3ac.jpg",
@@ -12,6 +12,7 @@
     "static/media/PortraitBeach.jpg": "/static/media/PortraitBeach.9976969ea9bed3a098c4.jpg",
     "static/media/Slide7.jpg": "/static/media/Slide7.f4d137429e309ca3abd9.jpg",
     "static/media/CarouselCulture.jpg": "/static/media/CarouselCulture.4f917eb25623ba373cfa.jpg",
+    "static/media/wayne-ivey-endorsement-graphic.jpg": "/static/media/wayne-ivey-endorsement-graphic.0b617d6fcd0d45d7ec3d.jpg",
     "static/media/MultiEndorsement.png": "/static/media/MultiEndorsement.e94d6c27f1b65c1c55e6.png",
     "static/media/Slide4.jpg": "/static/media/Slide4.b94b5cff634e9c7307b6.jpg",
     "static/media/NRA.png": "/static/media/NRA.448e3af005181da54fc3.png",
@@ -23,10 +24,17 @@
     "static/media/Slide2.jpg": "/static/media/Slide2.01fcb64e035e09d9265b.jpg",
     "static/media/CarouselBorder.jpg": "/static/media/CarouselBorder.eba7eceb7e132c25f264.jpg",
     "static/media/chamber_of_commerce.JPG": "/static/media/chamber_of_commerce.ee9a4faa7ad9c0526b5c.JPG",
+    "static/media/FireFighters.jpg": "/static/media/FireFighters.5a23daad9a1ba5441d2b.jpg",
+    "static/media/dave-weldon-endorsement-graphic.jpg": "/static/media/dave-weldon-endorsement-graphic.92989f499ce4178eb4e8.jpg",
+    "static/media/scott-ellis-endorsement-graphic.jpg": "/static/media/scott-ellis-endorsement-graphic.851767ca5d8e48937035.jpg",
+    "static/media/mike-haridopolos-endorsement-graphic-a (002).jpg": "/static/media/mike-haridopolos-endorsement-graphic-a (002).159e3688cf3b4dccd0cf.jpg",
+    "static/media/brian-hodgers-scheiner-endorsement-graphic.jpg": "/static/media/brian-hodgers-scheiner-endorsement-graphic.ea1e09c396e6851be158.jpg",
     "static/media/space_coast_association_of_realtors.jpg": "/static/media/space_coast_association_of_realtors.e7c94cdeaef846abf70a.jpg",
     "static/media/florida_realtors.jpg": "/static/media/florida_realtors.30de43c1ef8248e01e3f.jpg",
     "static/media/AIF.JPG": "/static/media/AIF.159ef747e3905601b63c.JPG",
+    "static/media/Sadoff.jpg": "/static/media/Sadoff.e62bbb08cd369f5c2d21.jpg",
     "static/media/Rockledge.jpg": "/static/media/Rockledge.c6346539de758d0e1af9.jpg",
+    "static/media/PBA.jpg": "/static/media/PBA.482fa3c2f45ec04c5077.jpg",
     "static/media/conservative_watch.JPG": "/static/media/conservative_watch.176f22a15ca26488dd6c.JPG",
     "static/media/bikers_for_trump.JPG": "/static/media/bikers_for_trump.adbe415d26f551d3b6a7.JPG",
     "static/media/SpCoastYR.jpeg": "/static/media/SpCoastYR.86f0956652f8ff86e307.jpeg",
@@ -37,12 +45,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.2257f27b.css.map": "/static/css/main.2257f27b.css.map",
-    "main.09c900ed.js.map": "/static/js/main.09c900ed.js.map",
+    "main.ddb3c1a8.css.map": "/static/css/main.ddb3c1a8.css.map",
+    "main.a7bf21a9.js.map": "/static/js/main.a7bf21a9.js.map",
     "453.45e07a72.chunk.js.map": "/static/js/453.45e07a72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2257f27b.css",
-    "static/js/main.09c900ed.js"
+    "static/css/main.ddb3c1a8.css",
+    "static/js/main.a7bf21a9.js"
   ]
 }
